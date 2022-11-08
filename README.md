@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **XDDDaniel/XDDDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
