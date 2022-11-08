@@ -1,5 +1,5 @@
-![GitHub Snake Light](https://github.com/XDDDaniel/XDDDaniel/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/XDDDaniel/XDDDaniel/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/XDDDaniel/XDDDaniel/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/XDDDaniel/XDDDaniel/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **XDDDaniel/XDDDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
